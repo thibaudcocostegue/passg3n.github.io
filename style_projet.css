@@ -73,6 +73,7 @@ a:link {
 }
 .projet_card_calccont
 {
+    box-shadow: 1px 1px 12px #555;
     background-color:red;
     position:fixed;
     left:15%;
