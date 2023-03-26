@@ -9,7 +9,7 @@ function generatePassword() {
     let passwordLength = document.getElementById('passwordLength').value;
     let includeSpecial = document.getElementById('includeSpecial').checked;
     let includeNumbers = document.getElementById('includeNumbers').checked;
-    let includeNumbers = document.getElementById('includeUpper').checked;
+    let includeUpper = document.getElementById('includeUpper').checked;
 
     let password = [];
 
